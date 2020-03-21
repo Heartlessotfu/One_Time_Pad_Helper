@@ -16,7 +16,7 @@ LpaDohqcOzVbglebjPdTnoTzbyRbuwGftflTliPiqp
 
 ```
 Commands avaliable: 
-+ <letter 1> <letter 2> : adds two letter together (plaintext + key = cipher text)
-- <letter 1> <letter 2> : subtracts letter 2 from letter 1 (cipher text - plain text = key)
+\+ <letter 1> <letter 2> : adds two letter together (plaintext + key = cipher text)
+\- <letter 1> <letter 2> : subtracts letter 2 from letter 1 (cipher text - plain text = key)
 add <letter> : adds letter to overall key and computes plaintext for all given messages
 print : prints current state of key (the one time pad)
